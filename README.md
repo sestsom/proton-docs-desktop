@@ -8,7 +8,7 @@ Created by Stefan Sommarsjö.
 ## Download executable
 
 For Windows:
-- [Proton.docs.desktop.1.0.0.Windows.zip](https://github.com/sestsom/proton-docs-desktop/releases/)
+- [Proton.docs.desktop.1.0.0.Windows.zip](https://github.com/sestsom/proton-docs-desktop/releases/tag/v1.0.0/)
 
 ## Features
 
