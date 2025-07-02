@@ -5,6 +5,11 @@ Created by Stefan Sommarsjö.
 
 ![Proton Docs Desktop](screenshot.png)
 
+## Download executable
+
+For Windows:
+- [Proton.docs.desktop.1.0.0.Windows.zip](https://github.com/sestsom/proton-docs-desktop/releases/)
+
 ## Features
 
 - **Native Desktop Experience** - Dedicated window for Proton Docs
